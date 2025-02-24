@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3290693b87d3de10322e642e8bbb3595" extends="sys_import_set_row" label="Application Modules Summary Import Set" max_length="40" name="x_erace_sbom_application_modules_summary_import_set" type="collection">
+        <element attributes="import_attribute_name=SBomId" label="SBomId" max_length="40" name="u_sbomid" type="integer"/>
+        <element attributes="import_attribute_name=WeakCopyLeftCount" label="WeakCopyLeftCount" max_length="40" name="u_weakcopyleftcount" type="integer"/>
+        <element attributes="import_attribute_name=IsRecentVersion" label="IsRecentVersion" max_length="40" name="u_isrecentversion" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationModuleName" label="ApplicationModuleName" max_length="255" name="u_applicationmodulename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Obsolescence" label="Obsolescence" max_length="120" name="u_obsolescence" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=None" label="None" max_length="40" name="u_none" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AverageAge" label="AverageAge" max_length="50" name="u_averageage" type="string"/>
+        <element attributes="import_attribute_name=StrongCopyLeftCount" label="StrongCopyLeftCount" max_length="40" name="u_strongcopyleftcount" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PackageType" label="PackageType" max_length="250" name="u_packagetype" type="string"/>
+        <element attributes="import_attribute_name=High" label="High" max_length="40" name="u_high" type="integer"/>
+        <element attributes="import_attribute_name=KEV" label="KEV" max_length="40" name="u_kev" type="integer"/>
+        <element attributes="import_attribute_name=LibraryCount" label="LibraryCount" max_length="40" name="u_librarycount" type="integer"/>
+        <element attributes="import_attribute_name=Low" label="Low" max_length="40" name="u_low" type="integer"/>
+        <element attributes="import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="integer"/>
+        <element attributes="import_attribute_name=Nnone" label="Nnone" max_length="40" name="u_nnone" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationModuleVersion" label="ApplicationModuleVersion" max_length="255" name="u_applicationmoduleversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppComp" label="AppComp" max_length="250" name="u_appcomp" type="string"/>
+        <element attributes="import_attribute_name=Medium" label="Medium" max_length="40" name="u_medium" type="integer"/>
+        <element attributes="import_attribute_name=Critical" label="Critical" max_length="40" name="u_critical" type="integer"/>
+    </element>
+</database>

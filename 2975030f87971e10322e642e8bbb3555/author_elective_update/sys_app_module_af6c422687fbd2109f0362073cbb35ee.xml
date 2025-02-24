@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Eracent SBOM Test DS</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_eracent_sbom_test_ds</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 15:12:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>af6c422687fbd2109f0362073cbb35ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eracent SBOM Test DS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_app_module_af6c422687fbd2109f0362073cbb35ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 15:12:39</sys_updated_on>
+        <timeline_page/>
+        <title>Eracent SBOM Test DS</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_app_module_af6c422687fbd2109f0362073cbb35ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Eracent SBOM Test DS</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_eracent_sbom_test_ds</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-21 15:12:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af6c422687fbd2109f0362073cbb35ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Eracent SBOM Test DS</sys_name><sys_overrides/><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_app_module_af6c422687fbd2109f0362073cbb35ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-21 15:12:39</sys_updated_on><timeline_page/><title>Eracent SBOM Test DS</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1900307090</payload_hash>
+        <record_name>Eracent SBOM Test DS</record_name>
+        <reverted_from/>
+        <source>e175030f87971e10322e642e8bbb3559</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 15:12:39</sys_created_on>
+        <sys_id>e36c422687fbd2109f0362073cbb35f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19529115f290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 15:12:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>676c422690fbd21015e9a8d93be33df2</update_guid>
+        <update_guid_history>676c422690fbd21015e9a8d93be33df2:-1900307090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-02-21 08:20:23">fbeb5e6a87bfd2109f0362073cbb3535</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 16:20:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>155d7c3696074846aa0caf088c70ffe4</sys_id>
+        <sys_metadata>af6c422687fbd2109f0362073cbb35ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eracent SBOM Test DS</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_app_module_af6c422687fbd2109f0362073cbb35ee</sys_update_name>
+        <sys_update_version display_value="sys_app_module_af6c422687fbd2109f0362073cbb35ee">e36c422687fbd2109f0362073cbb35f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-21 16:20:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

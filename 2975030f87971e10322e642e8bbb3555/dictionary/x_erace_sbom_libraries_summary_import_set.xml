@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="71f8e96f879f9a509f0362073cbb3545" extends="sys_import_set_row" label="Libraries Summary Import Set" max_length="40" name="x_erace_sbom_libraries_summary_import_set" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Age" label="Age" max_length="50" name="u_age" type="string"/>
+        <element attributes="import_attribute_name=LibraryId" label="LibraryId" max_length="40" name="u_libraryid" type="integer"/>
+        <element attributes="import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="integer"/>
+        <element attributes="import_attribute_name=High" label="High" max_length="40" name="u_high" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LibraryVersion" label="LibraryVersion" max_length="255" name="u_libraryversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LatestVersion" label="LatestVersion" max_length="255" name="u_latestversion" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Obsolescence" label="Obsolescence" max_length="120" name="u_obsolescence" type="string"/>
+        <element attributes="import_attribute_name=Low" label="Low" max_length="40" name="u_low" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=WorstEPSSPercent" label="WorstEPSSPercent" max_length="40" name="u_worstepsspercent" type="string"/>
+        <element attributes="import_attribute_name=Critical" label="Critical" max_length="40" name="u_critical" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LicenseType" label="LicenseType" max_length="2000" name="u_licensetype" type="string"/>
+        <element attributes="import_attribute_name=Medium" label="Medium" max_length="40" name="u_medium" type="integer"/>
+        <element attributes="import_attribute_name=KEV" label="KEV" max_length="40" name="u_kev" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LatestVersionAge" label="LatestVersionAge" max_length="50" name="u_latestversionage" type="string"/>
+        <element attributes="import_attribute_name=SBomId" label="SBomId" max_length="40" name="u_sbomid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PackageType" label="PackageType" max_length="2000" name="u_packagetype" type="string"/>
+        <element attributes="import_attribute_name=None" label="None" max_length="40" name="u_none" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LibraryName" label="LibraryName" max_length="255" name="u_libraryname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f560959287f392109f0362073cbb3547" label="Application Modules Summary" max_length="40" name="x_erace_sbom_application_modules_summary" type="collection">
+        <element label="Medium" max_length="40" name="medium" type="integer"/>
+        <element label="High" max_length="40" name="high" type="integer"/>
+        <element label="None" max_length="40" name="none" type="integer"/>
+        <element label="Application module name" max_length="255" name="application_module_name" type="string"/>
+        <element label="Low" max_length="40" name="low" type="integer"/>
+        <element label="KEV" max_length="40" name="kev" type="integer"/>
+        <element label="Critical" max_length="40" name="critical" type="integer"/>
+        <element label="Is recent version" max_length="40" name="is_recent_version" type="boolean"/>
+        <element label="Average age" max_length="50" name="average_age" type="string"/>
+        <element label="Application component" max_length="250" name="application_component" type="string"/>
+        <element label="SBOM Id" max_length="40" name="sbom_id" type="integer"/>
+        <element label="Package type" max_length="250" name="package_type" type="string"/>
+        <element label="Application module version" max_length="255" name="application_module_version" type="string"/>
+        <element label="Strong copy left count" max_length="40" name="strong_copy_left_count" type="integer"/>
+        <element label="Total" max_length="40" name="total" type="integer"/>
+        <element label="Obsolescence" max_length="120" name="obsolescence" type="string"/>
+        <element label="Weak copy left count" max_length="40" name="weak_copy_left_count" type="integer"/>
+        <element label="Library count" max_length="40" name="library_count" type="integer"/>
+    </element>
+</database>

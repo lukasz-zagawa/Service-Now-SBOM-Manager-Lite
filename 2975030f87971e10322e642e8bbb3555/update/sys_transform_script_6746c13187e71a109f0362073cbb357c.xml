@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="SBOM Docs Tranform Map">0e7401bd87a71a109f0362073cbb35a8</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target) {
+  var attachmentUtil = new GlideSysAttachment();
+
+  // Check if file content exists
+  if (gs.nil(source.u_file)) {
+    log.info("No file content found in import record: " + source.sys_id);
+    return;
+  }
+
+  // Debug log to confirm `target.sys_id` exists
+  if (!target.sys_id) {
+    log.error("SBOM target record does not have a valid sys_id!");
+    return;
+  }
+
+  // Set filename and content type
+  var fileName = source.u_filename || "sbom.json";
+  var contentType = "application/json";
+
+  try {
+    // Attach file to SBOM document
+    var attachmentSysId = attachmentUtil.write(target, fileName, contentType, source.u_file);
+    
+    if (attachmentSysId) {
+      log.info("Successfully attached file '" + fileName + "' to SBOM record " + target.sys_id);
+      
+      // Manually update the File column with the sys_id of the attachment
+      var sbomRecord = new GlideRecord("sn_sbom_doc");
+      if (sbomRecord.get(target.sys_id)) {
+        sbomRecord.file = attachmentSysId;
+        sbomRecord.update();
+        log.info("File column updated with attachment Sys ID: " + attachmentSysId);
+      } else {
+        log.error("Failed to retrieve SBOM record for updating File column.");
+      }
+    } else {
+      log.error("Attachment was created but no Sys ID was returned.");
+    }
+  } catch (e) {
+    log.error("Error attaching file to SBOM record " + target.sys_id + ": " + e);
+  }
+})(source, map, log, target);
+]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-06 15:58:32</sys_created_on>
+        <sys_id>6746c13187e71a109f0362073cbb357c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>onAfter</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_transform_script_6746c13187e71a109f0362073cbb357c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 13:01:39</sys_updated_on>
+        <when>onAfter</when>
+    </sys_transform_script>
+</record_update>

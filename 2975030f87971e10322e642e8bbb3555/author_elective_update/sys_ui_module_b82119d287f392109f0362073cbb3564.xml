@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Application Modules Summaries</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_erace_sbom.application_modules_summary_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 16:15:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b82119d287f392109f0362073cbb3564</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Modules Summaries</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_ui_module_b82119d287f392109f0362073cbb3564</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 16:15:07</sys_updated_on>
+        <table>x_erace_sbom_application_modules_summary</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_ui_module_b82119d287f392109f0362073cbb3564</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Application Modules Summaries</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_erace_sbom.application_modules_summary_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-20 16:15:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b82119d287f392109f0362073cbb3564</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Application Modules Summaries</sys_name><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_ui_module_b82119d287f392109f0362073cbb3564</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-20 16:15:07</sys_updated_on><table>x_erace_sbom_application_modules_summary</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>455477630</payload_hash>
+        <record_name>Application Modules Summaries</record_name>
+        <reverted_from/>
+        <source>e175030f87971e10322e642e8bbb3559</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 16:27:39</sys_created_on>
+        <sys_id>ac0455d687f392109f0362073cbb354c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195242fadd80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 16:27:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>342119d2b1f39210293daa293f852767</update_guid>
+        <update_guid_history>342119d2b1f39210293daa293f852767:1426486757,342119d2b1f39210293daa293f852767:1426486757</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 16:28:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1d1cfb5ff60241d88ae8e18ddf5f4240</sys_id>
+        <sys_metadata>b82119d287f392109f0362073cbb3564</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application Modules Summaries</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_ui_module_b82119d287f392109f0362073cbb3564</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_b82119d287f392109f0362073cbb3564">ac0455d687f392109f0362073cbb354c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 16:28:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
