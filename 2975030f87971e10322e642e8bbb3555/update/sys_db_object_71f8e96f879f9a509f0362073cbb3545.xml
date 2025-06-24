@@ -7,8 +7,9 @@
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
-        <create_access_controls>false</create_access_controls>
+        <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
+        <filter_extension/>
         <is_extendable>false</is_extendable>
         <label>Libraries Summary Import Set</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -22,16 +23,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-30 18:40:14</sys_created_on>
         <sys_id>71f8e96f879f9a509f0362073cbb3545</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Libraries Summary Import Set</sys_name>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>sys_db_object_71f8e96f879f9a509f0362073cbb3545</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-24 13:34:33</sys_updated_on>
+        <sys_updated_on>2025-06-24 21:08:57</sys_updated_on>
         <update_access>false</update_access>
-        <user_role/>
+        <user_role display_value="x_erace_sbom.sbom_lite_manager" name="x_erace_sbom.sbom_lite_manager">05e58bcf87971e10322e642e8bbb355e</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

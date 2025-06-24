@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_erace_sbom_application_modules_summary</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_erace_sbom_application_modules_summary</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 16:15:08</sys_created_on>
+        <sys_id>4d2119d287f392109f0362073cbb3580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_application_modules_summary</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_security_acl_4d2119d287f392109f0362073cbb3580</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 16:15:08</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_security_acl_4d2119d287f392109f0362073cbb3580</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_erace_sbom_application_modules_summary</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_erace_sbom_application_modules_summary</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 16:15:08</sys_created_on>
+        <sys_id>4d2119d287f392109f0362073cbb3580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_application_modules_summary</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_security_acl_4d2119d287f392109f0362073cbb3580</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 16:15:08</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-2034010521</payload_hash>
+        <record_name>x_erace_sbom_application_modules_summary</record_name>
+        <reverted_from/>
+        <source>56b9401a33d66a5010a961a9ed5c7b6a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 17:40:43</sys_created_on>
+        <sys_id>ffd90c1a33d66a5010a961a9ed5c7b51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197a30722bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 17:40:43</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3bd90c1a79d66a503fbb6d222f32e751</update_guid>
+        <update_guid_history>3bd90c1a79d66a503fbb6d222f32e751:0,78a72ed39b40221005b9e42477d6a91f:1702551954,0d2119d2d3f39210409a925cc3de268f:-661256579</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 21:56:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4d7c4b639b4a4528823620032b844b04</sys_id>
+        <sys_metadata>4d2119d287f392109f0362073cbb3580</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_application_modules_summary</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent display_value="x_erace_sbom_application_modules_summary">452119d287f392109f0362073cbb3594</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_security_acl_4d2119d287f392109f0362073cbb3580</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_4d2119d287f392109f0362073cbb3580">ffd90c1a33d66a5010a961a9ed5c7b51</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 21:56:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
