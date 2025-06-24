@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="DELETE">
+        <col_name_string>idx</col_name_string>
+        <index_col_name element="idx" name="x_erace_sbom_libraries_summary">b92891eb875f9a509f0362073cbb3506</index_col_name>
+        <logical_table_name>x_erace_sbom_libraries_summary</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-01-31 15:20:40</sys_created_on>
+        <sys_id>1ce482bf87131e509f0362073cbb35a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_libraries_summary</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_index_x_erace_sbom_libraries_summary_idx</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-01-31 15:20:40</sys_updated_on>
+        <table display_value="Libraries Summary" name="x_erace_sbom_libraries_summary">2d2811eb875f9a509f0362073cbb35e2</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_index_x_erace_sbom_libraries_summary_idx</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index"><sys_index action="INSERT_OR_UPDATE"><col_name_string>idx</col_name_string><index_col_name element="idx" name="x_erace_sbom_libraries_summary">b92891eb875f9a509f0362073cbb3506</index_col_name><logical_table_name>x_erace_sbom_libraries_summary</logical_table_name><sys_class_name>sys_index</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2025-01-31 15:20:40</sys_created_on><sys_id>1ce482bf87131e509f0362073cbb35a1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_erace_sbom_libraries_summary</sys_name><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_index_x_erace_sbom_libraries_summary_idx</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-01-31 15:20:40</sys_updated_on><table display_value="Libraries Summary" name="x_erace_sbom_libraries_summary">2d2811eb875f9a509f0362073cbb35e2</table><unique_index>false</unique_index></sys_index></record_update>]]></payload>
+        <payload_hash>485185641</payload_hash>
+        <record_name>Libraries Summary: Idx</record_name>
+        <reverted_from/>
+        <source>e175030f87971e10322e642e8bbb3559</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-01-31 15:20:41</sys_created_on>
+        <sys_id>94e482bf87131e509f0362073cbb35a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194bcf32d640000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-01-31 15:20:41</sys_updated_on>
+        <type>Indexes</type>
+        <update_guid>d4e482bf28131e5058bbdad6f096b5a4</update_guid>
+        <update_guid_history>d4e482bf28131e5058bbdad6f096b5a4:485185641</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-06-24 22:49:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_index">sys_index</sys_db_object>
+        <sys_id>146c0564a52545308c7dc329f2613f10</sys_id>
+        <sys_metadata>1ce482bf87131e509f0362073cbb35a1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_libraries_summary</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_index_x_erace_sbom_libraries_summary_idx</sys_update_name>
+        <sys_update_version display_value="sys_index_x_erace_sbom_libraries_summary_idx">94e482bf87131e509f0362073cbb35a5</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-06-24 22:49:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

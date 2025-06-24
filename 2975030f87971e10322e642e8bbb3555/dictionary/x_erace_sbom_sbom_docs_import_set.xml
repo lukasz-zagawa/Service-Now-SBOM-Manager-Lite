@@ -19,6 +19,5 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=File" label="File" max_length="20000000" name="u_file" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Spec_version" label="Spec_version" max_length="40" name="u_spec_version" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Id" label="Id" max_length="10" name="u_id" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Queue_status" label="Queue_status" max_length="40" name="u_queue_status" type="string"/>
     </element>
 </database>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="Test Report">2be2ea2687ffd2109f0362073cbb35bd</report_id>
+        <report_id display_value="SBOM Application Modules">2be2ea2687ffd2109f0362073cbb35bd</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-21 16:50:57</sys_created_on>

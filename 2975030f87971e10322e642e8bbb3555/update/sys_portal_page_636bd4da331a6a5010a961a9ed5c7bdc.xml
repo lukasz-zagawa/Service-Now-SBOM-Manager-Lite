@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-06-24 23:36:13">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order>3001</order>
+        <read_roles>x_erace_sbom.sbom_lite_manager</read_roles>
+        <roles>x_erace_sbom.sbom_lite_manager</roles>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-24 18:59:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>636bd4da331a6a5010a961a9ed5c7bdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SBOM Libraries Widgets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_portal_page_636bd4da331a6a5010a961a9ed5c7bdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-24 18:59:08</sys_updated_on>
+        <title>SBOM Libraries Widgets</title>
+        <user/>
+        <view/>
+    </sys_portal_page>
+</record_update>

@@ -80,7 +80,7 @@
         <reverted_from/>
         <source>e175030f87971e10322e642e8bbb3559</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-29 14:24:59</sys_created_on>
         <sys_id>cdf42bc387d75a509f0362073cbb35d1</sys_id>
