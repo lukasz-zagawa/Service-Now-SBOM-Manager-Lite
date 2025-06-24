@@ -2,15 +2,16 @@
     <element db_object_id="2d2811eb875f9a509f0362073cbb35e2" label="Libraries Summary" max_length="40" name="x_erace_sbom_libraries_summary" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Latest version" max_length="255" name="latest_version" type="string"/>
         <element label="None" max_length="40" name="none" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" function_definition="glidefunction:concat(library_name, ' ',  library_version)" function_field="true" label="Unique Library" max_length="255" name="rpt_unique_library" read_only="true" type="string"/>
         <element label="Low" max_length="40" name="low" type="integer"/>
         <element label="Total" max_length="40" name="total" type="integer"/>
         <element label="Worst EPSS percent" max_length="38" name="worst_epss_percent" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Library version" max_length="255" name="library_version" type="string"/>
         <element label="KEV" max_length="40" name="kev" type="integer"/>
-        <element label="SBOM Id" max_length="40" name="sbom_id" type="integer"/>
         <element label="High" max_length="40" name="high" type="integer"/>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
-        <element attributes="edge_encryption_enabled=true" label="License type" max_length="2000" name="license_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="License type" max_length="200" name="license_type" type="glide_list"/>
+        <element label="Unique Application Module" max_length="32" name="unique_application_module" reference="x_erace_sbom_application_modules_summary" type="reference"/>
         <element label="Critical" max_length="40" name="critical" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Age" max_length="50" name="age" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Package type" max_length="2000" name="package_type" type="string"/>
@@ -19,8 +20,15 @@
         <element label="Medium" max_length="40" name="medium" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Obsolescence" max_length="120" name="obsolescence" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Library name" max_length="255" name="library_name" type="string"/>
+        <element label="SBOM Id" max_length="32" name="sbom_id" reference="x_erace_sbom_sboms" type="reference"/>
         <index name="index">
+            <element name="sbom_id"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
+        </index>
+        <index name="index3">
+            <element name="unique_application_module"/>
         </index>
     </element>
 </database>

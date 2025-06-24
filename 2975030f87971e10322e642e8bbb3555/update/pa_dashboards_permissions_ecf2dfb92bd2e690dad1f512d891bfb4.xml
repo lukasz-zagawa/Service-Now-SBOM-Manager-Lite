@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="SBOM Dashboard">9ebb8830875c66109f0362073cbb3531</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>x_erace_sbom.sbom_lite_manager</identity>
+        <read>true</read>
+        <role display_value="x_erace_sbom.sbom_lite_manager" name="x_erace_sbom.sbom_lite_manager">05e58bcf87971e10322e642e8bbb355e</role>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 19:02:16</sys_created_on>
+        <sys_id>ecf2dfb92bd2e690dad1f512d891bfb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom.sbom_lite_manager</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_ecf2dfb92bd2e690dad1f512d891bfb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 19:02:16</sys_updated_on>
+        <type>1</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

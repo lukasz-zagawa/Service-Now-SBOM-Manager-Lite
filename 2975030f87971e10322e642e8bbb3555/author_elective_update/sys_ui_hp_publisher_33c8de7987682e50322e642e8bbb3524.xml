@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="DELETE">
+        <allow_database_view_filter>true</allow_database_view_filter>
+        <allow_extended_table>true</allow_extended_table>
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter/>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value>0374f17d87a42e50322e642e8bbb355d,3054753d87a42e50322e642e8bbb3591,3054753d87a42e50322e642e8bbb3594,3054753d87a42e50322e642e8bbb3597,3054753d87a42e50322e642e8bbb359a,3054753d87a42e50322e642e8bbb35aa,3274f17d87a42e50322e642e8bbb352a,3274f17d87a42e50322e642e8bbb3530,3454753d87a42e50322e642e8bbb3590,3454753d87a42e50322e642e8bbb3593,3454753d87a42e50322e642e8bbb3596,3454753d87a42e50322e642e8bbb3599,3454753d87a42e50322e642e8bbb35ac,3854753d87a42e50322e642e8bbb3537,3854753d87a42e50322e642e8bbb358f,3854753d87a42e50322e642e8bbb3592,3854753d87a42e50322e642e8bbb3595,3854753d87a42e50322e642e8bbb3598,3854753d87a42e50322e642e8bbb35a8,3854753d87a42e50322e642e8bbb35ab,3854753d87a42e50322e642e8bbb35af,3a74f17d87a42e50322e642e8bbb352d,3c54753d87a42e50322e642e8bbb3536,3c54753d87a42e50322e642e8bbb3591,3c54753d87a42e50322e642e8bbb3594,3c54753d87a42e50322e642e8bbb3597,3c54753d87a42e50322e642e8bbb359a,3c54753d87a42e50322e642e8bbb35ae,3e74f17d87a42e50322e642e8bbb3524,4374f17d87a42e50322e642e8bbb355e,7054753d87a42e50322e642e8bbb3590,7054753d87a42e50322e642e8bbb3593,7054753d87a42e50322e642e8bbb3596,7054753d87a42e50322e642e8bbb3599,7054753d87a42e50322e642e8bbb35ac,7274f17d87a42e50322e642e8bbb352e,7454753d87a42e50322e642e8bbb3537,7454753d87a42e50322e642e8bbb358f,7454753d87a42e50322e642e8bbb3592,7454753d87a42e50322e642e8bbb3595,7454753d87a42e50322e642e8bbb3598,7454753d87a42e50322e642e8bbb35a8,7454753d87a42e50322e642e8bbb35af,7854753d87a42e50322e642e8bbb3591,7854753d87a42e50322e642e8bbb3594,7854753d87a42e50322e642e8bbb3597,7854753d87a42e50322e642e8bbb359a,7854753d87a42e50322e642e8bbb35aa,7a74f17d87a42e50322e642e8bbb3523,7a74f17d87a42e50322e642e8bbb3525,7a74f17d87a42e50322e642e8bbb352a,7c54753d87a42e50322e642e8bbb3590,7c54753d87a42e50322e642e8bbb3593,7c54753d87a42e50322e642e8bbb3596,7c54753d87a42e50322e642e8bbb3599,b054753d87a42e50322e642e8bbb3537,b054753d87a42e50322e642e8bbb358f,b054753d87a42e50322e642e8bbb3592,b054753d87a42e50322e642e8bbb3595,b054753d87a42e50322e642e8bbb3598,b054753d87a42e50322e642e8bbb35a8,b054753d87a42e50322e642e8bbb35ab,b454753d87a42e50322e642e8bbb3591,b454753d87a42e50322e642e8bbb3594,b454753d87a42e50322e642e8bbb3597,b454753d87a42e50322e642e8bbb359a,b674f17d87a42e50322e642e8bbb3526,b674f17d87a42e50322e642e8bbb352c,b854753d87a42e50322e642e8bbb3590,b854753d87a42e50322e642e8bbb3593,b854753d87a42e50322e642e8bbb3596,b854753d87a42e50322e642e8bbb3599,ba74f17d87a42e50322e642e8bbb352e,bc54753d87a42e50322e642e8bbb3537,bc54753d87a42e50322e642e8bbb358f,bc54753d87a42e50322e642e8bbb3592,bc54753d87a42e50322e642e8bbb3595,bc54753d87a42e50322e642e8bbb3598,bc54753d87a42e50322e642e8bbb35a8,bc54753d87a42e50322e642e8bbb35ab,c374f17d87a42e50322e642e8bbb355c,f054753d87a42e50322e642e8bbb3591,f054753d87a42e50322e642e8bbb3594,f054753d87a42e50322e642e8bbb3597,f054753d87a42e50322e642e8bbb359a,f054753d87a42e50322e642e8bbb35aa,f274f17d87a42e50322e642e8bbb352f,f454753d87a42e50322e642e8bbb3590,f454753d87a42e50322e642e8bbb3593,f454753d87a42e50322e642e8bbb3596,f454753d87a42e50322e642e8bbb3599,f454753d87a42e50322e642e8bbb35a9,f454753d87a42e50322e642e8bbb35ac,f854753d87a42e50322e642e8bbb3535,f854753d87a42e50322e642e8bbb3537,f854753d87a42e50322e642e8bbb358f,f854753d87a42e50322e642e8bbb3592,f854753d87a42e50322e642e8bbb3595,f854753d87a42e50322e642e8bbb3598,f854753d87a42e50322e642e8bbb35a8,f854753d87a42e50322e642e8bbb35ab,fc54753d87a42e50322e642e8bbb3536,fc54753d87a42e50322e642e8bbb3591,fc54753d87a42e50322e642e8bbb3594,fc54753d87a42e50322e642e8bbb3597,fc54753d87a42e50322e642e8bbb35aa,fc54753d87a42e50322e642e8bbb35ae,fe74f17d87a42e50322e642e8bbb3522,fe74f17d87a42e50322e642e8bbb352c</default_reference_field_value>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name/>
+        <name>SBOM Application Module</name>
+        <no_bulk_migration>false</no_bulk_migration>
+        <reference_conditions table="x_erace_sbom_application_modules_summary">^RLQUERYx_erace_sbom_libraries_summary.unique_application_module,&gt;=1^ENDRLQUERY</reference_conditions>
+        <reference_table>x_erace_sbom_application_modules_summary</reference_table>
+        <remove_all_option>false</remove_all_option>
+        <source_field>obsolescence</source_field>
+        <source_table>x_erace_sbom_application_modules_summary</source_table>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 15:01:58</sys_created_on>
+        <sys_id>33c8de7987682e50322e642e8bbb3524</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>SBOM Application Module</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_33c8de7987682e50322e642e8bbb3524</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 15:11:47</sys_updated_on>
+        <type>2</type>
+        <ui_control_type>4</ui_control_type>
+        <use_starts_with_on_search_keyword>false</use_starts_with_on_search_keyword>
+    </sys_ui_hp_publisher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_ui_hp_publisher_33c8de7987682e50322e642e8bbb3524</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>true</allow_database_view_filter><allow_extended_table>true</allow_extended_table><boolean_field/><boolean_table/><date_filter/><default_boolean_field/><default_choice/><default_date_filter/><default_reference_field_value>0374f17d87a42e50322e642e8bbb355d,3054753d87a42e50322e642e8bbb3591,3054753d87a42e50322e642e8bbb3594,3054753d87a42e50322e642e8bbb3597,3054753d87a42e50322e642e8bbb359a,3054753d87a42e50322e642e8bbb35aa,3274f17d87a42e50322e642e8bbb352a,3274f17d87a42e50322e642e8bbb3530,3454753d87a42e50322e642e8bbb3590,3454753d87a42e50322e642e8bbb3593,3454753d87a42e50322e642e8bbb3596,3454753d87a42e50322e642e8bbb3599,3454753d87a42e50322e642e8bbb35ac,3854753d87a42e50322e642e8bbb3537,3854753d87a42e50322e642e8bbb358f,3854753d87a42e50322e642e8bbb3592,3854753d87a42e50322e642e8bbb3595,3854753d87a42e50322e642e8bbb3598,3854753d87a42e50322e642e8bbb35a8,3854753d87a42e50322e642e8bbb35ab,3854753d87a42e50322e642e8bbb35af,3a74f17d87a42e50322e642e8bbb352d,3c54753d87a42e50322e642e8bbb3536,3c54753d87a42e50322e642e8bbb3591,3c54753d87a42e50322e642e8bbb3594,3c54753d87a42e50322e642e8bbb3597,3c54753d87a42e50322e642e8bbb359a,3c54753d87a42e50322e642e8bbb35ae,3e74f17d87a42e50322e642e8bbb3524,4374f17d87a42e50322e642e8bbb355e,7054753d87a42e50322e642e8bbb3590,7054753d87a42e50322e642e8bbb3593,7054753d87a42e50322e642e8bbb3596,7054753d87a42e50322e642e8bbb3599,7054753d87a42e50322e642e8bbb35ac,7274f17d87a42e50322e642e8bbb352e,7454753d87a42e50322e642e8bbb3537,7454753d87a42e50322e642e8bbb358f,7454753d87a42e50322e642e8bbb3592,7454753d87a42e50322e642e8bbb3595,7454753d87a42e50322e642e8bbb3598,7454753d87a42e50322e642e8bbb35a8,7454753d87a42e50322e642e8bbb35af,7854753d87a42e50322e642e8bbb3591,7854753d87a42e50322e642e8bbb3594,7854753d87a42e50322e642e8bbb3597,7854753d87a42e50322e642e8bbb359a,7854753d87a42e50322e642e8bbb35aa,7a74f17d87a42e50322e642e8bbb3523,7a74f17d87a42e50322e642e8bbb3525,7a74f17d87a42e50322e642e8bbb352a,7c54753d87a42e50322e642e8bbb3590,7c54753d87a42e50322e642e8bbb3593,7c54753d87a42e50322e642e8bbb3596,7c54753d87a42e50322e642e8bbb3599,b054753d87a42e50322e642e8bbb3537,b054753d87a42e50322e642e8bbb358f,b054753d87a42e50322e642e8bbb3592,b054753d87a42e50322e642e8bbb3595,b054753d87a42e50322e642e8bbb3598,b054753d87a42e50322e642e8bbb35a8,b054753d87a42e50322e642e8bbb35ab,b454753d87a42e50322e642e8bbb3591,b454753d87a42e50322e642e8bbb3594,b454753d87a42e50322e642e8bbb3597,b454753d87a42e50322e642e8bbb359a,b674f17d87a42e50322e642e8bbb3526,b674f17d87a42e50322e642e8bbb352c,b854753d87a42e50322e642e8bbb3590,b854753d87a42e50322e642e8bbb3593,b854753d87a42e50322e642e8bbb3596,b854753d87a42e50322e642e8bbb3599,ba74f17d87a42e50322e642e8bbb352e,bc54753d87a42e50322e642e8bbb3537,bc54753d87a42e50322e642e8bbb358f,bc54753d87a42e50322e642e8bbb3592,bc54753d87a42e50322e642e8bbb3595,bc54753d87a42e50322e642e8bbb3598,bc54753d87a42e50322e642e8bbb35a8,bc54753d87a42e50322e642e8bbb35ab,c374f17d87a42e50322e642e8bbb355c,f054753d87a42e50322e642e8bbb3591,f054753d87a42e50322e642e8bbb3594,f054753d87a42e50322e642e8bbb3597,f054753d87a42e50322e642e8bbb359a,f054753d87a42e50322e642e8bbb35aa,f274f17d87a42e50322e642e8bbb352f,f454753d87a42e50322e642e8bbb3590,f454753d87a42e50322e642e8bbb3593,f454753d87a42e50322e642e8bbb3596,f454753d87a42e50322e642e8bbb3599,f454753d87a42e50322e642e8bbb35a9,f454753d87a42e50322e642e8bbb35ac,f854753d87a42e50322e642e8bbb3535,f854753d87a42e50322e642e8bbb3537,f854753d87a42e50322e642e8bbb358f,f854753d87a42e50322e642e8bbb3592,f854753d87a42e50322e642e8bbb3595,f854753d87a42e50322e642e8bbb3598,f854753d87a42e50322e642e8bbb35a8,f854753d87a42e50322e642e8bbb35ab,fc54753d87a42e50322e642e8bbb3536,fc54753d87a42e50322e642e8bbb3591,fc54753d87a42e50322e642e8bbb3594,fc54753d87a42e50322e642e8bbb3597,fc54753d87a42e50322e642e8bbb35aa,fc54753d87a42e50322e642e8bbb35ae,fe74f17d87a42e50322e642e8bbb3522,fe74f17d87a42e50322e642e8bbb352c</default_reference_field_value><description/><exclusion_choice_list/><look_up_name/><name>SBOM Application Module</name><no_bulk_migration>false</no_bulk_migration><reference_conditions table="x_erace_sbom_application_modules_summary">^RLQUERYx_erace_sbom_libraries_summary.unique_application_module,&gt;=1^ENDRLQUERY</reference_conditions><reference_table>x_erace_sbom_application_modules_summary</reference_table><remove_all_option>false</remove_all_option><source_field>obsolescence</source_field><source_table>x_erace_sbom_application_modules_summary</source_table><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-28 15:01:58</sys_created_on><sys_id>33c8de7987682e50322e642e8bbb3524</sys_id><sys_mod_count>4</sys_mod_count><sys_name>SBOM Application Module</sys_name><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_ui_hp_publisher_33c8de7987682e50322e642e8bbb3524</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-28 15:11:47</sys_updated_on><type>2</type><ui_control_type>4</ui_control_type><use_starts_with_on_search_keyword>false</use_starts_with_on_search_keyword></sys_ui_hp_publisher></record_update>]]></payload>
+        <payload_hash>-1598822307</payload_hash>
+        <record_name>SBOM Application Module</record_name>
+        <reverted_from/>
+        <source>98c6c6ab873f9610322e642e8bbb35b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 15:11:47</sys_created_on>
+        <sys_id>00eb1a7d87682e50322e642e8bbb35b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195dd4f29000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 15:11:47</sys_updated_on>
+        <type>Interactive Filter</type>
+        <update_guid>04eb1a7ddc682e50bdc3a189010170b2</update_guid>
+        <update_guid_history>04eb1a7ddc682e50bdc3a189010170b2:-1598822307,007b967d39682e5006b0b34d53dcaa4b:-1150794218,547a12b93f682e5008dd81e6ac34ecef:-1175092669,a7f9deb930682e50bc71de458c4c3069:-1393308967,d8a99eb916682e50d4d06cc2e5a1eb5b:390062588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 15:21:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_hp_publisher">sys_ui_hp_publisher</sys_db_object>
+        <sys_id>5465a34356e643e8aee281752b45ba40</sys_id>
+        <sys_metadata>33c8de7987682e50322e642e8bbb3524</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SBOM Application Module</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_ui_hp_publisher_33c8de7987682e50322e642e8bbb3524</sys_update_name>
+        <sys_update_version display_value="sys_ui_hp_publisher_33c8de7987682e50322e642e8bbb3524">00eb1a7d87682e50322e642e8bbb35b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 15:21:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

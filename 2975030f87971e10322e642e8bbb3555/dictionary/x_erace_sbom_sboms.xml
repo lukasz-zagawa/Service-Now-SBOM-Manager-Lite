@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0a4835bd87a42e50322e642e8bbb351d" label="SBOMs" max_length="40" name="x_erace_sbom_sboms" type="collection">
+        <element label="Unique Application Module" max_length="32" name="unique_application_module" reference="x_erace_sbom_application_modules_summary" type="reference"/>
+        <element label="Used tool vendor" max_length="100" name="used_tool_vendor" type="string"/>
+        <element label="SBOM source" max_length="40" name="sbom_source" type="string"/>
+        <element display="true" label="SBOM Id" max_length="40" name="sbom_id" type="integer"/>
+        <element label="Used tool version" max_length="50" name="used_tool_version" type="string"/>
+        <element label="File name" max_length="500" name="file_name" type="string"/>
+        <element label="Used tool name" max_length="100" name="used_tool_name" type="string"/>
+        <element label="BOM UUID" max_length="50" name="bom_uuid" type="string"/>
+        <element label="File" max_length="40" name="file" type="file_attachment"/>
+        <element label="BOM generation time" max_length="40" name="bom_generation_time" type="glide_date_time"/>
+        <element label="Specification Version" max_length="40" name="spec_version" type="string"/>
+        <element label="Bom version" max_length="40" name="bom_version" type="integer"/>
+        <element label="BOM format" max_length="40" name="bom_format" type="string"/>
+        <index name="index">
+            <element name="unique_application_module"/>
+        </index>
+    </element>
+</database>

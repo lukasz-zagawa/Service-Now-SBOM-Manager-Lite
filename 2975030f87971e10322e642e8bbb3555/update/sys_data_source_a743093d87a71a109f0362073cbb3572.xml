@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
     <sys_data_source action="INSERT_OR_UPDATE">
-        <batch_size>10</batch_size>
+        <batch_size>1000</batch_size>
         <category/>
         <connection_override_last_success_time/>
         <connection_timeout>0</connection_timeout>
-        <connection_url>jdbc:sqlserver://192.168.2.96:1433;selectMethod=cursor;databaseName=ClearArmor_FM</connection_url>
+        <connection_url>jdbc:sqlserver://192.168.2.35:1433;selectMethod=cursor;databaseName=ClearArmor_FM</connection_url>
         <connection_url_parameters/>
         <csv_delimiter/>
         <data_in_single_column>false</data_in_single_column>
@@ -26,9 +26,9 @@
         <import_set_table_label>SBOM Docs Import Set</import_set_table_label>
         <import_set_table_name>x_erace_sbom_sbom_docs_import_set</import_set_table_name>
         <instance_name/>
-        <jdbc_password>﷞﷟﷒76e127101ba21110d912766ecc4bcbb3﷬﷔1﷬﷭PRT8LDFLYlCmT_EGavrcSA==jtsWAGQRP3KcUesON-_y92GoUPoPaGVnDXZlU7Y=﷮﷯</jdbc_password>
-        <jdbc_server>192.168.2.96</jdbc_server>
-        <jdbc_user_name>sn_user</jdbc_user_name>
+        <jdbc_password>﷞﷟﷒76e127101ba21110d912766ecc4bcbb3﷬﷔1﷬﷭s8G1fnbYF_nnyNpswKpYbA==70Y7Zt-Wew3CTN8eCEpfU3Au2GYFLbRpWpMZnQ==﷮﷯</jdbc_password>
+        <jdbc_server>192.168.2.35</jdbc_server>
+        <jdbc_user_name>servicenow</jdbc_user_name>
         <jdbcprobe_result_set_rows/>
         <jpath_root_node/>
         <last_run_database_field>ModifiedDate</last_run_database_field>
@@ -39,7 +39,7 @@
         <limit/>
         <maximum_rows/>
         <mid_server display_value="eracent_mid_qc">3e539445dbc25b0059a0324d7c9619a9</mid_server>
-        <name>SBOM DS</name>
+        <name>SBOMs DS</name>
         <offset>0</offset>
         <oracle_port>1521</oracle_port>
         <oracle_sid>orcl</oracle_sid>
@@ -71,14 +71,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-06 15:44:59</sys_created_on>
         <sys_id>a743093d87a71a109f0362073cbb3572</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>SBOM DS</sys_name>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>SBOMs DS</sys_name>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>sys_data_source_a743093d87a71a109f0362073cbb3572</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-24 14:33:53</sys_updated_on>
+        <sys_updated_on>2025-06-18 09:31:27</sys_updated_on>
         <table_name>sn.V_SNSbom</table_name>
         <type>JDBC</type>
         <use_batch_import>true</use_batch_import>

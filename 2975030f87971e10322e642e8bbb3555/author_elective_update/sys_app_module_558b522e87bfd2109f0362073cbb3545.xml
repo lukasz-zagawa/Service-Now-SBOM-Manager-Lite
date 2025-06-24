@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Eracent SBOM Manager Lite">0ed891e3875f9a509f0362073cbb3522</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SBOMs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_erace_sbom_sboms</name>
+        <order>7</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-21 16:19:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>558b522e87bfd2109f0362073cbb3545</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>SBOMs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_app_module_558b522e87bfd2109f0362073cbb3545</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 13:39:32</sys_updated_on>
+        <timeline_page/>
+        <title>SBOMs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_app_module_558b522e87bfd2109f0362073cbb3545</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Eracent SBOM Manager Lite">0ed891e3875f9a509f0362073cbb3522</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>SBOMs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_erace_sbom_sboms</name><order>7</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-21 16:19:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>558b522e87bfd2109f0362073cbb3545</sys_id><sys_mod_count>3</sys_mod_count><sys_name>SBOMs</sys_name><sys_overrides/><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_app_module_558b522e87bfd2109f0362073cbb3545</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-28 13:39:32</sys_updated_on><timeline_page/><title>SBOMs</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>283535569</payload_hash>
+        <record_name>SBOMs</record_name>
+        <reverted_from/>
+        <source>98c6c6ab873f9610322e642e8bbb35b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 13:39:32</sys_created_on>
+        <sys_id>bcc6863587282e50322e642e8bbb3519</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195dcfab4fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 13:39:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3cc60af18d282e509c35e223c18a47d5</update_guid>
+        <update_guid_history>3cc60af18d282e509c35e223c18a47d5:283535569,40b0ea62b8ffd210a439ee42777003da:-1791734334,1cccda6ee7bfd210a89f069583f5b118:-1468487991,25cb962e5abfd210ac348330484c9a84:-568860636</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-03-28 06:43:52">d4c74a7587282e50322e642e8bbb3553</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 13:43:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>44a40aadf12a4c7f920f9235983a4811</sys_id>
+        <sys_metadata>558b522e87bfd2109f0362073cbb3545</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_sboms</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_app_module_558b522e87bfd2109f0362073cbb3545</sys_update_name>
+        <sys_update_version display_value="sys_app_module_558b522e87bfd2109f0362073cbb3545">bcc6863587282e50322e642e8bbb3519</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 13:43:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

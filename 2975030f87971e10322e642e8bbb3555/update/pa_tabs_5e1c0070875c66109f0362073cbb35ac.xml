@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="New Tab 1">1a1c4030875c66109f0362073cbb35f0</canvas_page>
+        <name>5e1c0070875c66109f0362073cbb35acApplication Modules</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 15:53:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e1c0070875c66109f0362073cbb35ac</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>5e1c0070875c66109f0362073cbb35acApplication Modules</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>pa_tabs_5e1c0070875c66109f0362073cbb35ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-20 17:38:13</sys_updated_on>
+    </pa_tabs>
+</record_update>

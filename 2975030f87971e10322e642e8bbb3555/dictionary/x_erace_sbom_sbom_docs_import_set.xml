@@ -5,11 +5,11 @@
         <element attributes="import_attribute_name=Source" label="Source" max_length="15" name="u_source" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Bom_format" label="Bom_format" max_length="40" name="u_bom_format" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Bom_uuid" label="Bom_uuid" max_length="50" name="u_bom_uuid" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=UsedtoolVendor" label="UsedtoolVendor" max_length="100" name="u_usedtoolvendor" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UsedtoolVendor" label="UsedtoolVendor" max_length="100" name="u_usedtoolvendor" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturers" label="Manufacturers" max_length="500" name="u_manufacturers" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Error_category" label="Error_category" max_length="40" name="u_error_category" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=FileName" label="FileName" max_length="500" name="u_filename" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Queue_status" label="Queue_status" max_length="40" name="u_queue_status" type="string"/>
+        <element label="UniqueApplicationModule" max_length="800" name="u_uniqueapplicationmodule" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Authors" label="Authors" max_length="4000" name="u_authors" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Suppliers" label="Suppliers" max_length="500" name="u_suppliers" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Bom_generation_time" label="Bom_generation_time" max_length="40" name="u_bom_generation_time" type="string"/>
@@ -19,5 +19,6 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=File" label="File" max_length="20000000" name="u_file" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Spec_version" label="Spec_version" max_length="40" name="u_spec_version" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Id" label="Id" max_length="10" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Queue_status" label="Queue_status" max_length="40" name="u_queue_status" type="string"/>
     </element>
 </database>

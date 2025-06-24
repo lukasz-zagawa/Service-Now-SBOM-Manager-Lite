@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 12:41:01</sys_created_on>
+        <sys_id>ef59b9f187e42e50322e642e8bbb35a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_sboms.x_erace_sbom.sboms_user</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_security_acl display_value="x_erace_sbom_sboms">e759b9f187e42e50322e642e8bbb3596</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ef59b9f187e42e50322e642e8bbb35a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 12:41:01</sys_updated_on>
+        <sys_user_role display_value="x_erace_sbom.sboms_user" name="x_erace_sbom.sboms_user">1759357d87a42e50322e642e8bbb3583</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_security_acl_role_ef59b9f187e42e50322e642e8bbb35a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-28 12:41:01</sys_created_on><sys_id>ef59b9f187e42e50322e642e8bbb35a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_erace_sbom_sboms.x_erace_sbom.sboms_user</sys_name><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_security_acl display_value="x_erace_sbom_sboms">e759b9f187e42e50322e642e8bbb3596</sys_security_acl><sys_update_name>sys_security_acl_role_ef59b9f187e42e50322e642e8bbb35a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-28 12:41:01</sys_updated_on><sys_user_role display_value="x_erace_sbom.sboms_user" name="x_erace_sbom.sboms_user">1759357d87a42e50322e642e8bbb3583</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1139953458</payload_hash>
+        <record_name>x_erace_sbom_sboms.x_erace_sbom.sboms_user</record_name>
+        <reverted_from/>
+        <source>98c6c6ab873f9610322e642e8bbb35b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 12:41:01</sys_created_on>
+        <sys_id>a359b9f187e42e50322e642e8bbb35ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195dcc520da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 12:41:01</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>2759b9f10be42e503dee68ac18f5ecab</update_guid>
+        <update_guid_history>2759b9f10be42e503dee68ac18f5ecab:1139953458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2025-03-28 06:35:48">cee506f187282e50322e642e8bbb3553</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 13:35:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0c3849eaf74846bb97859245a7d27ca9</sys_id>
+        <sys_metadata>ef59b9f187e42e50322e642e8bbb35a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_erace_sbom_sboms.x_erace_sbom.sboms_user</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent display_value="x_erace_sbom_sboms">e759b9f187e42e50322e642e8bbb3596</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ef59b9f187e42e50322e642e8bbb35a7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ef59b9f187e42e50322e642e8bbb35a7">a359b9f187e42e50322e642e8bbb35ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 13:35:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -8,15 +8,22 @@
         <element label="KEV" max_length="40" name="kev" type="integer"/>
         <element label="Critical" max_length="40" name="critical" type="integer"/>
         <element label="Is recent version" max_length="40" name="is_recent_version" type="boolean"/>
+        <element label="SBOM Id" max_length="32" name="sbom_id" reference="x_erace_sbom_sboms" type="reference"/>
         <element label="Average age" max_length="50" name="average_age" type="string"/>
         <element label="Application component" max_length="250" name="application_component" type="string"/>
-        <element label="SBOM Id" max_length="40" name="sbom_id" type="integer"/>
-        <element label="Package type" max_length="250" name="package_type" type="string"/>
+        <element choice="2" label="Package type" max_length="250" name="package_type" type="glide_list">
+            <choice/>
+        </element>
         <element label="Application module version" max_length="255" name="application_module_version" type="string"/>
         <element label="Strong copy left count" max_length="40" name="strong_copy_left_count" type="integer"/>
+        <element label="Risk Score" max_length="40" name="risk_score" type="float"/>
         <element label="Total" max_length="40" name="total" type="integer"/>
         <element label="Obsolescence" max_length="120" name="obsolescence" type="string"/>
         <element label="Weak copy left count" max_length="40" name="weak_copy_left_count" type="integer"/>
+        <element display="true" label="Unique Application Module" max_length="200" name="unique_application_module" type="string"/>
         <element label="Library count" max_length="40" name="library_count" type="integer"/>
+        <index name="index">
+            <element name="sbom_id"/>
+        </index>
     </element>
 </database>

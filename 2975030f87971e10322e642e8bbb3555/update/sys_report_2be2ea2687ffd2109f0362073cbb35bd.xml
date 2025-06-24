@@ -27,7 +27,7 @@
         <chart_title_x_position>0</chart_title_x_position>
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
-        <color/>
+        <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
         <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
         <column/>
@@ -41,12 +41,12 @@
         <description/>
         <direction>minimize</direction>
         <display_column_lines>false</display_column_lines>
-        <display_grid>true</display_grid>
+        <display_grid>false</display_grid>
         <display_row_lines>false</display_row_lines>
         <donut_width_percent>30</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>application_module_name</field>
+        <field>application_component</field>
         <field_list>application_component,application_module_name,application_module_version,is_recent_version,obsolescence,average_age,kev,critical,high,medium,low,none,total,strong_copy_left_count,weak_copy_left_count,library_count,package_type</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
@@ -80,7 +80,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles/>
+        <roles>x_erace_sbom.sbom_lite_manager</roles>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -88,7 +88,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>color_palette</set_color>
+        <set_color>one_color</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>false</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
@@ -108,25 +108,25 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-02-21 16:50:57</sys_created_on>
         <sys_id>2be2ea2687ffd2109f0362073cbb35bd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Test Report</sys_name>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>SBOM Application Modules</sys_name>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>sys_report_2be2ea2687ffd2109f0362073cbb35bd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-21 16:52:22</sys_updated_on>
+        <sys_updated_on>2025-06-24 08:40:53</sys_updated_on>
         <table>x_erace_sbom_application_modules_summary</table>
-        <title>Test Report</title>
+        <title>SBOM Application Modules</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
-        <type>pie</type>
+        <type>list</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
-        <user>6816f79cc0a8016401c5a33be04be441</user>
+        <user>GLOBAL</user>
         <x_axis_allow_decimals>true</x_axis_allow_decimals>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
