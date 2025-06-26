@@ -4,7 +4,7 @@
         <category/>
         <connection_override_last_success_time/>
         <connection_timeout>0</connection_timeout>
-        <connection_url>jdbc:sqlserver://192.168.2.35:1433;selectMethod=cursor;databaseName=ClearArmor_FM</connection_url>
+        <connection_url>jdbc:sqlserver://:1433;selectMethod=cursor;databaseName=ClearArmor_FM</connection_url>
         <connection_url_parameters/>
         <csv_delimiter/>
         <data_in_single_column>false</data_in_single_column>
@@ -26,8 +26,8 @@
         <import_set_table_label>Libraries Summary Import Set</import_set_table_label>
         <import_set_table_name>x_erace_sbom_libraries_summary_import_set</import_set_table_name>
         <instance_name/>
-        <jdbc_password>﷞﷟﷒76e127101ba21110d912766ecc4bcbb3﷬﷔1﷬﷭krEqH0XTMv5MogUGA0xJFQ==iNVxY_SS53j8OH8-Q2KbzojX8VFsFeH7BGpJpA==﷮﷯</jdbc_password>
-        <jdbc_server>192.168.2.35</jdbc_server>
+        <jdbc_password/>
+        <jdbc_server/>
         <jdbc_user_name>servicenow</jdbc_user_name>
         <jdbcprobe_result_set_rows/>
         <jpath_root_node/>
@@ -38,7 +38,7 @@
         <ldapprobe_result_set_rows>200</ldapprobe_result_set_rows>
         <limit/>
         <maximum_rows/>
-        <mid_server display_value="eracent_mid_qc">3e539445dbc25b0059a0324d7c9619a9</mid_server>
+        <mid_server/>
         <name>Libraries Summary DS</name>
         <offset>0</offset>
         <oracle_port>1521</oracle_port>
@@ -71,14 +71,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-31 14:53:00</sys_created_on>
         <sys_id>035d35fb87dfda509f0362073cbb35a2</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Libraries Summary DS</sys_name>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>sys_data_source_035d35fb87dfda509f0362073cbb35a2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-18 09:32:15</sys_updated_on>
+        <sys_updated_on>2025-06-26 14:02:01</sys_updated_on>
         <table_name>sn.V_SNLibrariesSummary</table_name>
         <type>JDBC</type>
         <use_batch_import>true</use_batch_import>

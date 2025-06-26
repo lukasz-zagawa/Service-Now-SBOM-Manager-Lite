@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-06-24 23:36:13">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-06-26 14:31:45">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order>3001</order>
@@ -23,5 +23,20 @@
         <title>SBOM Libraries Widgets</title>
         <user/>
         <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>test</dropzone>
+                <offset/>
+                <page display_value="SBOM Libraries Widgets">636bd4da331a6a5010a961a9ed5c7bdc</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2025-06-25 10:59:04</sys_created_on>
+                <sys_id>2377bb1a2b9e6a90dad1f512d891bf56</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2025-06-25 10:59:04</sys_updated_on>
+                <related_items_node/>
+            </sys_portal>
+        </related_items_node>
     </sys_portal_page>
 </record_update>
