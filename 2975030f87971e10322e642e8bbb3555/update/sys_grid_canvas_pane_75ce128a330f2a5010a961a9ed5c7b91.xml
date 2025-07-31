@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="New Tab 2">b1315d5f871822509f0362073cbb35f9</grid_canvas>
-        <height>12</height>
-        <portal_widget display_value="Created 2025-06-24 16:16:18">27a6d15e2b526a90dad1f512d891bf39</portal_widget>
-        <posx>4</posx>
-        <posy>10</posy>
+        <height>10</height>
+        <portal_widget display_value="Created 2025-07-31 09:39:55">fdce128a330f2a5010a961a9ed5c7b8d</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-06-24 23:16:18</sys_created_on>
-        <sys_id>63a6d15e2b526a90dad1f512d891bf3b</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_created_on>2025-07-31 16:39:55</sys_created_on>
+        <sys_id>75ce128a330f2a5010a961a9ed5c7b91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>b1315d5f871822509f0362073cbb35f9</sys_name>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_63a6d15e2b526a90dad1f512d891bf3b</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_75ce128a330f2a5010a961a9ed5c7b91</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-07-31 16:39:55</sys_updated_on>
-        <width>4</width>
+        <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>
