@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>new_tab_2</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-02 18:15:26</sys_created_on>
+        <sys_id>43d5fcab87aca2909f0362073cbb3531</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New_tab_2</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_ui_view_43d5fcab87aca2909f0362073cbb3531</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 18:15:26</sys_updated_on>
+        <title>New_tab_2</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</application>
+        <file_path/>
+        <instance_id>b4e146326f848e00d54da9cc5d3ee477</instance_id>
+        <instance_name>ven01271</instance_name>
+        <name>sys_ui_view_43d5fcab87aca2909f0362073cbb3531</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>new_tab_2</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-02 18:15:26</sys_created_on><sys_id>43d5fcab87aca2909f0362073cbb3531</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New_tab_2</sys_name><sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package><sys_policy/><sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope><sys_update_name>sys_ui_view_43d5fcab87aca2909f0362073cbb3531</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-02 18:15:26</sys_updated_on><title>New_tab_2</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>783571535</payload_hash>
+        <record_name>New_tab_2</record_name>
+        <reverted_from/>
+        <source>98c6c6ab873f9610322e642e8bbb35b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-02 18:15:26</sys_created_on>
+        <sys_id>03d5fcab87aca2909f0362073cbb3535</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195f7b718f30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-02 18:15:26</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>83d5fcaba0aca29021efce2b51d3c834</update_guid>
+        <update_guid_history>83d5fcaba0aca29021efce2b51d3c834:783571535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-05 13:14:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>28d9309601594e9f8e886cb2121f3be9</sys_id>
+        <sys_metadata>43d5fcab87aca2909f0362073cbb3531</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New_tab_2</sys_name>
+        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope_delete display_value="">3721a2f2b5e5446996f672df6e1a5869</sys_scope_delete>
+        <sys_update_name>sys_ui_view_43d5fcab87aca2909f0362073cbb3531</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_43d5fcab87aca2909f0362073cbb3531">03d5fcab87aca2909f0362073cbb3535</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-05 13:14:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
