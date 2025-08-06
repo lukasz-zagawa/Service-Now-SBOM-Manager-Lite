@@ -16,7 +16,6 @@
         <element attributes="import_attribute_name=LibraryCount" label="LibraryCount" max_length="40" name="u_librarycount" type="integer"/>
         <element attributes="import_attribute_name=Low" label="Low" max_length="40" name="u_low" type="integer"/>
         <element attributes="import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="integer"/>
-        <element attributes="import_attribute_name=Nnone" label="Nnone" max_length="40" name="u_nnone" type="integer"/>
         <element label="UniqueApplicationModule" max_length="800" name="u_uniqueapplicationmodule" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationModuleVersion" label="ApplicationModuleVersion" max_length="255" name="u_applicationmoduleversion" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=AppComp" label="AppComp" max_length="250" name="u_appcomp" type="string"/>
