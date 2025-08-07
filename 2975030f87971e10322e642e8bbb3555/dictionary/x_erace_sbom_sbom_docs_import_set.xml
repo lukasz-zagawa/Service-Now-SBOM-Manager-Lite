@@ -10,7 +10,6 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Error_category" label="Error_category" max_length="40" name="u_error_category" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=FileName" label="FileName" max_length="500" name="u_filename" type="string"/>
         <element label="UniqueApplicationModule" max_length="800" name="u_uniqueapplicationmodule" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Authors" label="Authors" max_length="4000" name="u_authors" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Suppliers" label="Suppliers" max_length="500" name="u_suppliers" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Bom_generation_time" label="Bom_generation_time" max_length="40" name="u_bom_generation_time" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Bom_version" label="Bom_version" max_length="50" name="u_bom_version" type="string"/>
