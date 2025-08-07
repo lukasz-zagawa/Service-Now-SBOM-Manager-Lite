@@ -6,37 +6,37 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Privacy Policy</hint>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Privacy Policy</mobile_title>
+        <mobile_title>About</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
-        <order>23</order>
+        <order>20</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>x_erace_sbom_privacy_policy.do</query>
+        <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_erace_sbom.sbom_lite_manager</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-08-06 10:25:07</sys_created_on>
+        <sys_created_on>2025-08-07 11:17:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2711c8082bdbea90dad1f512d891bfb3</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Privacy Policy</sys_name>
+        <sys_id>f008d1902b976e90dad1f512d891bf47</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>About</sys_name>
         <sys_overrides/>
         <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
-        <sys_update_name>sys_app_module_2711c8082bdbea90dad1f512d891bfb3</sys_update_name>
+        <sys_update_name>sys_app_module_f008d1902b976e90dad1f512d891bf47</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-07 11:21:29</sys_updated_on>
+        <sys_updated_on>2025-08-07 11:20:46</sys_updated_on>
         <timeline_page/>
-        <title>Privacy Policy</title>
+        <title>About</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
