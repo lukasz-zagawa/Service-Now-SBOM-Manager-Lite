@@ -462,9 +462,9 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_erace_sbom_libraries_summary</sys_name>
             <sys_overrides/>
-            <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+            <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
             <sys_policy/>
-            <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+            <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
             <sys_update_name>sys_ui_section_d5639abf87d31e509f0362073cbb350b</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-01-31 16:24:06</sys_updated_on>

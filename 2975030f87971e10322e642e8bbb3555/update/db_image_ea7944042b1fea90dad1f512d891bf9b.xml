@@ -13,9 +13,9 @@
         <sys_id>ea7944042b1fea90dad1f512d891bf9b</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>x_erace_sbom.eracent-logo-small.png</sys_name>
-        <sys_package display_value="SBOM Manager Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
-        <sys_scope display_value="SBOM Manager Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>db_image_ea7944042b1fea90dad1f512d891bf9b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-08-06 10:56:47</sys_updated_on>
