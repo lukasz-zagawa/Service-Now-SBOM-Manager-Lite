@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>88a3cd8633e87e1010a961a9ed5c7b06</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>false</can_share><can_write>false</can_write><dashboard display_value="Eracent SBOM-HQ™ Dashboard">54eec08633e47e1010a961a9ed5c7b4f</dashboard><group/><owner>false</owner><role display_value="x_erace_sbom.sbom_lite_manager" name="x_erace_sbom.sbom_lite_manager">05e58bcf87971e10322e642e8bbb355e</role><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-13 23:35:50</sys_created_on><sys_domain>global</sys_domain><sys_id>88a3cd8633e87e1010a961a9ed5c7b06</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-13 23:35:50</sys_updated_on><user/></par_dashboard_permission></record_update>]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 00:00:35</sys_created_on>
+        <sys_id>a6494d8e33e87e1010a961a9ed5c7b87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eracent SBOM-HQ™ Dashboard</sys_name>
+        <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>sys_metadata_link_a6494d8e33e87e1010a961a9ed5c7b87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 00:00:35</sys_updated_on>
+        <tablename>par_dashboard_permission</tablename>
+    </sys_metadata_link>
+</record_update>
