@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <data_source/>
+        <description/>
+        <macroponent display_value="List - Simple">2b1c080881e05dc63b917044290b233f</macroponent>
+        <name>SBOM Libraries</name>
+        <properties>{"columns":"library_name,library_version,age,obsolescence,latest_version,latest_version_age,worst_epss_percent,kev,critical,high,medium,low,none,total,license_type,package_type,unique_application_module","fixedQuery":"","groupByField":"unique_application_module","hideColumnFiltering":false,"hideColumnGrouping":false,"hideColumnReorder":false,"hideColumnResizing":false,"hideColumnSorting":false,"hideDotwalk":false,"hideEmptyStateImage":false,"hideHeader":false,"hideHighlightContent":false,"hideHighlightedValues":false,"hideInlineEditing":false,"hideLastRefreshedText":true,"hideLinks":false,"hidePersonalization":true,"hideRefreshButton":false,"hideRowSelector":false,"hideTitle":false,"hideTitleRowCount":false,"hideViewAll":false,"highlightContent":{"color":"","patterns":[]},"highlightedValueConfigId":"","followFilters":true,"limit":20,"listTitle":"SBOM Libraries","maxCharLimit":4000,"maxColumns":17,"overrideWordWrapUserPref":false,"refreshRequested":"","table":"x_erace_sbom_libraries_summary","wordWrap":false,"showBorder":true,"isDashboard":true,"bare":false,"id":"bare","value":false,"noDebounce":true,"propLabel":"Bare"}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 22:28:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>9aed3dd233a0fe1010a961a9ed5c7b6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SBOM Libraries</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>par_visualization_9aed3dd233a0fe1010a961a9ed5c7b6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 22:28:58</sys_updated_on>
+        <title/>
+        <type>List - Simple</type>
+    </par_visualization>
+</record_update>

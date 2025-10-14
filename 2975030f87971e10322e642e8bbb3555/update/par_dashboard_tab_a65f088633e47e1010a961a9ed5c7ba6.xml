@@ -3,21 +3,21 @@
         <active>true</active>
         <background_color/>
         <dashboard display_value="Eracent SBOM-HQ™ Dashboard">54eec08633e47e1010a961a9ed5c7b4f</dashboard>
-        <name>New Tab 2</name>
+        <name>SBOM Libraries</name>
         <order>1</order>
         <sys_class_name>par_dashboard_tab</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-13 19:47:27</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>a65f088633e47e1010a961a9ed5c7ba6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>New Tab 2</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SBOM Libraries</sys_name>
         <sys_overrides/>
         <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
         <sys_policy/>
         <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>par_dashboard_tab_a65f088633e47e1010a961a9ed5c7ba6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-13 19:47:27</sys_updated_on>
+        <sys_updated_on>2025-10-14 22:43:44</sys_updated_on>
     </par_dashboard_tab>
 </record_update>
