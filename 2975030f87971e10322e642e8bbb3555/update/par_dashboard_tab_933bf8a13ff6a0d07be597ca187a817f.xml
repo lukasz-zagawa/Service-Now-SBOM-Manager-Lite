@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="SBOM Dashboard">8cd1ca99cf22958add80359c21de268e</dashboard>
+        <name>Libraries</name>
+        <order>1</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 11:51:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>933bf8a13ff6a0d07be597ca187a817f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Libraries</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
+        <sys_update_name>par_dashboard_tab_933bf8a13ff6a0d07be597ca187a817f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 10:39:24</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>
