@@ -24,17 +24,17 @@
         <scoped_administration>false</scoped_administration>
         <short_description>Integration providing SBOM-oriented security analytical reports.</short_description>
         <source>x_erace_sbom</source>
-        <store_correlation_id>REPOAPP0002308763</store_correlation_id>
-        <store_url/>
+        <store_correlation_id>REPOAPP0002308828</store_correlation_id>
+        <store_url>https://tpp.servicenow.com/sn_appstore_s</store_url>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-29 12:07:23</sys_created_on>
         <sys_id>2975030f87971e10322e642e8bbb3555</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-22 16:31:11</sys_updated_on>
+        <sys_updated_on>2025-10-22 17:15:31</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
