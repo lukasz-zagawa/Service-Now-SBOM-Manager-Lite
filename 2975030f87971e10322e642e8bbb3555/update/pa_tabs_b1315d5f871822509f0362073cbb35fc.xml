@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
     <pa_tabs action="INSERT_OR_UPDATE">
-        <canvas_page display_value="New Tab 2">b1315d5f871822509f0362073cbb35f9</canvas_page>
+        <canvas_page/>
         <name>Libraries</name>
-        <page display_value="SBOM Libraries Widgets">636bd4da331a6a5010a961a9ed5c7bdc</page>
+        <page/>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-03-20 15:20:47</sys_created_on>

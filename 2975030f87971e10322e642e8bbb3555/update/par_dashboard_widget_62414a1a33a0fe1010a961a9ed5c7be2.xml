@@ -3,7 +3,7 @@
         <canvas display_value="">2e5f088633e47e1010a961a9ed5c7ba8</canvas>
         <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
         <component_props>{"columns":"library_name,library_version,age,obsolescence,latest_version,latest_version_age,worst_epss_percent,kev,critical,high,medium,low,none,total,license_type,package_type,unique_application_module","fixedQuery":"","groupByField":"unique_application_module","hideColumnFiltering":false,"hideColumnGrouping":false,"hideColumnReorder":false,"hideColumnResizing":false,"hideColumnSorting":false,"hideDotwalk":false,"hideEmptyStateImage":false,"hideHeader":false,"hideHighlightContent":false,"hideHighlightedValues":false,"hideInlineEditing":false,"hideLastRefreshedText":true,"hideLinks":false,"hidePersonalization":true,"hideRefreshButton":false,"hideRowSelector":false,"hideTitle":false,"hideTitleRowCount":false,"hideViewAll":false,"highlightContent":{"color":"","patterns":[]},"highlightedValueConfigId":"","followFilters":true,"limit":20,"listTitle":"SBOM Libraries","maxCharLimit":4000,"maxColumns":17,"overrideWordWrapUserPref":false,"table":"x_erace_sbom_libraries_summary","wordWrap":false,"showBorder":true,"isDashboard":true,"bare":false,"id":"bare","value":false,"noDebounce":true,"propLabel":"Bare"}</component_props>
-        <h>13</h>
+        <h>18</h>
         <name>SBOM Libraries</name>
         <stored_component display_value="SBOM Libraries">9aed3dd233a0fe1010a961a9ed5c7b6a</stored_component>
         <sys_class_name>par_dashboard_widget</sys_class_name>
@@ -11,7 +11,7 @@
         <sys_created_on>2025-10-14 22:43:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>62414a1a33a0fe1010a961a9ed5c7be2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>SBOM Libraries</sys_name>
         <sys_overrides/>
         <sys_package display_value="SBOM-HQ Lite" source="x_erace_sbom">2975030f87971e10322e642e8bbb3555</sys_package>
@@ -19,11 +19,11 @@
         <sys_scope display_value="SBOM-HQ Lite">2975030f87971e10322e642e8bbb3555</sys_scope>
         <sys_update_name>par_dashboard_widget_62414a1a33a0fe1010a961a9ed5c7be2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-14 22:43:44</sys_updated_on>
+        <sys_updated_on>2025-10-20 10:13:05</sys_updated_on>
         <visualization/>
         <w>48</w>
         <widget_props/>
         <x>0</x>
-        <y>26</y>
+        <y>29</y>
     </par_dashboard_widget>
 </record_update>

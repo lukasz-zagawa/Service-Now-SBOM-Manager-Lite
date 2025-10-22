@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
     <pa_tabs action="INSERT_OR_UPDATE">
-        <canvas_page display_value="New Tab 1">1a1c4030875c66109f0362073cbb35f0</canvas_page>
+        <canvas_page/>
         <name>5e1c0070875c66109f0362073cbb35acApplication Modules</name>
         <page/>
         <sys_class_name>pa_tabs</sys_class_name>
